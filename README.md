@@ -5,7 +5,7 @@
 
 - 📫 Email de contato: **guimartins_9@hotmail.com**
 
-![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "linkedin-badge") - [GuilhermeMPA](https://www.linkedin.com/in/guimpalves/ "linkedin")
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [guimpalves](https://www.linkedin.com/in/guimpalves/ "guimpalves")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
