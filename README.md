@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Guilherme Martins Pereira Alves</h1>
-<h3 align="center">Estudante de desenvolvimento web na Trybe</h3>
+<h3 align="center">Estudante de desenvolvimento web</h3>
 
 - 📚 Estou estudando **Node.js + Express**
 
